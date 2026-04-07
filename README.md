@@ -13,7 +13,6 @@
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
 </div>
-```
 
 ### `> Software Developer · AI Engineer · .NET Dev`
 ### `> Based in Ontario, Canada 🍁`
