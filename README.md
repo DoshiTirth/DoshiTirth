@@ -1,6 +1,5 @@
 <div align="center">
-
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║        ████████╗██╗██████╗ ████████╗██╗  ██╗               ║
@@ -12,6 +11,8 @@
 ║                                                              ║
 ║              D O S H I  —  S O F T W A R E  &  A I          ║
 ╚══════════════════════════════════════════════════════════════╝
+</pre>
+</div>
 ```
 
 ### `> Software Developer · AI Engineer · .NET Dev`
@@ -147,9 +148,9 @@ Analyzes Ethereum wallet activity using Etherscan API. Detects behavioral patter
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoshiTirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=ffab00&text_color=f0f0f5)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoshiTirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=ffab00&text_color=f0f0f5&count_private=true)](https://github.com/DoshiTirth)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoshiTirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&text_color=f0f0f5)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoshiTirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&text_color=f0f0f5&langs_count=8)](https://github.com/DoshiTirth)
 
 </div>
 
